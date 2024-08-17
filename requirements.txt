@@ -1,0 +1,4 @@
+# flask
+streamlit
+pypdf2
+werkzeug
